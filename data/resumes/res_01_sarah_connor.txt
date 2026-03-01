@@ -1,0 +1,17 @@
+# PASS (Score 95)
+# Targeting: JD 1 (Senior AI Engineer)
+Name: Sarah Connor
+Email: sarah.connor@example.com
+
+EXPERIENCE
+Lead AI Engineer | Databridge Systems | 2019 - Present
+- Architected enterprise-grade stateful AI agents using LangGraph and LangChain.
+- Managed a highly asynchronous Python backend processing 10k messages/minute.
+- Implemented RAG pipelines resulting in a 40% increase in query accuracy.
+- Mentored a team of 4 junior Python developers.
+
+Senior Backend Developer | WebSolutions | 2017 - 2019
+- Developed scalable microservices using Python (FastAPI/Django).
+
+EDUCATION
+B.S. in Computer Science, Stanford University (2017)

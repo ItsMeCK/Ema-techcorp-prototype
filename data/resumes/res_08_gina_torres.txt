@@ -1,0 +1,14 @@
+# PASS (Score 88)
+# Targeting: JD 3 (DevOps Engineer)
+Name: Gina Torres
+Email: g.torres@example.com
+
+EXPERIENCE
+Cloud Infrastructure Engineer | FinTech Go | 2020 - Present
+- Orchestrated Docker containers across an on-premise Kubernetes cluster.
+- Built GitHub Actions workflows to automate unit testing and deployments.
+- Implemented Infrastructure as Code using AWS CloudFormation.
+- Advanced Python scripting for server maintenance.
+
+EDUCATION
+B.S. Computer Engineering (2019)

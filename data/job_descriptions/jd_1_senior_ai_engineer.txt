@@ -1,0 +1,15 @@
+Job Title: Senior AI Software Engineer
+
+About the Role:
+TechCorp is looking for a Senior AI Software Engineer to lead the development of our agentic LLM workflows. 
+
+Key Responsibilities:
+- Design and architect stateful LLM applications using LangGraph and LangChain.
+- Implement complex multi-agent reasoning, retrieval augmented generation (RAG), and deterministic inference routing.
+- Mentor junior engineers and collaborate with ML Researchers.
+
+Requirements:
+- 5+ years of production Python backend experience.
+- Deep expertise in LangGraph, LangChain, and integrating OpenAI/Anthropic models via API.
+- Strong software engineering principles (Dependency Injection, OOP, scaling asynchronous workloads).
+- Bachelor's degree in Computer Science or related field.

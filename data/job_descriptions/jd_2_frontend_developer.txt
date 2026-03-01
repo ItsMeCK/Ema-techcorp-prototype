@@ -1,0 +1,15 @@
+Job Title: Frontend Web Developer (React)
+
+About the Role:
+TechCorp is seeking a Frontend Web Developer to build beautiful, responsive user interfaces for our internal portals.
+
+Key Responsibilities:
+- Translate UI/UX wireframes into functional, high-performance web components.
+- Collaborate with backend teams to integrate RESTful APIs.
+- Optimize applications for maximum speed and scalability.
+
+Requirements:
+- 2+ years of professional experience with HTML, CSS, and modern JavaScript (ES6+).
+- Strong proficiency in React.js and its core principles.
+- Experience with state management (Redux, Context API).
+- Familiarity with Git version control.

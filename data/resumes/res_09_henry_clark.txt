@@ -1,0 +1,14 @@
+# HITL (Score 55)
+# Targeting: JD 3 (DevOps Engineer)
+Name: Henry Clark
+Email: henry.c@example.com
+
+EXPERIENCE
+System Administrator | School District | 2015 - Present
+- Managed active directory and user access controls.
+- Reset passwords and fixed hardware issues (printers, routers).
+- Has occasionally used Docker to run a localized school application.
+- Played around with AWS EC2 instances during a weekend project.
+
+EDUCATION
+A.A. Networking (2014)

@@ -1,0 +1,14 @@
+# PASS (Score 90)
+# Targeting: JD 2 (Frontend Developer)
+Name: David Park
+Email: dpark.dev@example.com
+
+EXPERIENCE
+Frontend Developer | Creative Agency X | 2021 - Present
+- Built 15+ responsive marketing sites using React.js and Next.js.
+- Managed complex application state using Redux Toolkit.
+- Collaborated with design teams via Figma and implemented pixel-perfect UI/UX.
+- Deep expertise in modern JavaScript (ES6+), HTML5, and CSS3 / Tailwind.
+
+EDUCATION
+B.A. Graphic Design, NYU (2020)

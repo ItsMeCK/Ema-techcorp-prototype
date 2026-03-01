@@ -1,0 +1,13 @@
+# HITL (Score 75)
+# Targeting: JD 2 (Frontend Developer)
+Name: Emily Davis
+Email: emdavis@example.com
+
+EXPERIENCE
+Junior Web Developer | Local Shop | 2022 - Present
+- Created a WordPress site for a local bakery using PHP and HTML/CSS.
+- Learned React.js and built a personal to-do list application.
+- Familiar with Git and GitHub.
+
+EDUCATION
+Bootcamp Certificate in Full-Stack Web Development, General Assembly (2022)

@@ -1,0 +1,16 @@
+Job Title: Cloud Infrastructure DevOps Engineer
+
+About the Role:
+TechCorp requires a skilled DevOps Engineer to manage and scale our AWS cloud infrastructure and CI/CD pipelines.
+
+Key Responsibilities:
+- Automate infrastructure provisioning using Terraform or CloudFormation.
+- Manage Docker container deployments via Kubernetes (EKS).
+- Ensure uptime, security, and performance of production environments.
+- Build and maintain GitHub Actions or Jenkins CI/CD pipelines.
+
+Requirements:
+- 3+ years of experience in Cloud Architecture (AWS preferred).
+- Proficiency in Docker and Kubernetes orchestration.
+- Strong scripting skills in Python or Bash.
+- Experience with Infrastructure as Code (IaC).

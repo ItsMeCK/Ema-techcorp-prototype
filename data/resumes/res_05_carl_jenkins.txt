@@ -1,0 +1,14 @@
+# REJECT (Score 15)
+# Targeting: JD 2 (Frontend Developer)
+Name: Carl Jenkins
+Email: c.jenk@example.com
+
+EXPERIENCE
+Backend Systems Admin | OldBank | 2018 - Present
+- Managed on-premise Oracle databases.
+- Monitored server uptime using Nagios.
+- Wrote shell scripts to backup server logs.
+- Zero experience with web frontend technologies.
+
+EDUCATION
+B.S. Information Technology (2018)

@@ -1,0 +1,14 @@
+# PASS (Score 92)
+# Targeting: JD 3 (DevOps Engineer)
+Name: Frank Miller
+Email: frank.m.ops@example.com
+
+EXPERIENCE
+Site Reliability Engineer | CloudScale Inc | 2019 - Present
+- Automated infrastructure provisioning using Terraform.
+- Migrated legacy EC2 applications to containerized workloads on Kubernetes (EKS).
+- Configured Jenkins CI/CD pipelines dropping deployment times by 60%.
+- Proficient in Bash scripting and Python automation.
+
+EDUCATION
+B.S. Telecommunications (2018)

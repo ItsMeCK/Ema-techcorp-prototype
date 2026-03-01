@@ -1,0 +1,13 @@
+# HITL (Score 65)
+# Targeting: JD 1 (Senior AI Engineer)
+Name: Alice Chen
+Email: achen88@example.com
+
+EXPERIENCE
+Software Engineer | NextGen Startups | 2020 - Present
+- Maintained legacy Python (Django) applications.
+- Integrated OpenAI's API to summarize customer support tickets (simple prompt wrapper).
+- Built internal tools using basic Python scripts.
+
+EDUCATION
+B.S. in Information Systems (2020)

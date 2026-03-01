@@ -1,0 +1,14 @@
+# HITL (Score 68)
+# Targeting: JD 1 (Senior AI Engineer)
+Name: Ian White
+Email: ian.w.py@example.com
+
+EXPERIENCE
+Python Developer | DataSync | 2020 - Present
+- 4 years of solid Python backend API development (FastAPI).
+- Designed PostgeSQL schemas and SQLAlchemy ORM models.
+- Has read about LangChain but zero professional experience building LLM pipelines.
+- Willing to learn agentic workflows.
+
+EDUCATION
+B.S. Computer Science (2020)

@@ -1,0 +1,13 @@
+# REJECT (Score 20)
+# Targeting: JD 1 (Senior AI Engineer)
+Name: Bob Wilson
+Email: bob.w@example.com
+
+EXPERIENCE
+Junior Data Analyst | TechCorp | 2022 - Present
+- Created basic Excel dashboards and SQL queries.
+- Cleaned CSV datasets for the marketing team.
+- Wrote a 50-line python script to automate email sending.
+
+EDUCATION
+Associate Degree in Business Administration (2021)
