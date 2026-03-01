@@ -1,7 +1,7 @@
-# Ema AI TechCorp Prototype: Architectural Critique & Folder Structure Review
+# Ema AI TechCorp Prototype: Architecture & Folder Structure Review
 
 ## 1. Current Folder Structure
-The current repository is designed as a **flat, highly-consolidated structure** specifically tailored for a seamless VP-level review process:
+The current repository is designed as a **flat, highly-consolidated structure** specifically tailored for a seamless review process:
 
 ```text
 ema-techcorp-prototype/
@@ -12,7 +12,7 @@ ema-techcorp-prototype/
 ```
 
 ### Why this structure?
-For a code submission or prototype presentation, executives and VPs often evaluate "Time-To-Value". A flat structure ensures the reviewer doesn't have to hunt through deeply nested directories (e.g., `src/agents/`, `src/models/`, `tests/`) just to see the core logic. Everything is immediately visible, executable via a single command, and the documentation is centralized.
+For a code submission or prototype presentation, reviewers often evaluate "Time-To-Value". A flat structure ensures the reviewer doesn't have to hunt through deeply nested directories (e.g., `src/agents/`, `src/models/`, `tests/`) just to see the core logic. Everything is immediately visible, executable via a single command, and the documentation is centralized.
 
 ---
 
@@ -75,5 +75,5 @@ ema_resume_service/
 └── README.md
 ```
 
-### Why is this the "Right" Answer for a VP?
-By explaining *why* you chose a flat structure for the prototype (speed of review) and *contrasting* it with the rigorous, modular structure required for production (the layout above), you demonstrate **Strategic Engineering Vision**. You prove you understand both how to build a Proof-of-Value quickly, and how to architect a system for enterprise scale.
+### Why is this the Ideal Structure?
+Contrasting the flat structure of a prototype with the rigorous, modular structure required for production demonstrates strategic engineering vision. It shows an understanding of both how to build a Proof-of-Value quickly, and how to architect a system for enterprise scale.

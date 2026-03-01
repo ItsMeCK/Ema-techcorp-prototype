@@ -1,6 +1,6 @@
 # Ema AI: TechCorp Resume Matching Prototype
 
-**Author:** TechCorp AI Engineering
+**Author:** Ema
 
 ## 1. Executive Summary
 This repository contains the production-ready prototype for the **Ema "Universal AI Employee"**, systematically designed to replace TechCorp's legacy resume screening vendor. 
@@ -14,7 +14,7 @@ The primary business objectives center on ethical AI adoption, stability, transp
 ## 2. Advanced Architectural Paradigm
 This system is engineered using **LangGraph** to construct a deterministic, enterprise-grade state machine. It explicitly moves away from fragile prompt-chaining paradigms towards a heavily fortified agentic workflow.
 
-### VP-Level Engineering Principles Implemented
+### Core Engineering Principles Implemented
 - **Enterprise State Schema (`TypedDict`):** The data payload is tracked through a strict `EnterpriseState` object. It governs core I/O, control flow (`retry_count`, `thought_hashes`), and safety (`security_flags`).
 - **Semantic Circuit Breakers (Self-Healing):** To prevent catastrophic LLM hallucination loops, the `ValidationAgent` (The Critic) utilizes `hashlib` diversity sampling. If the LLM repeats identical reasoning (hash collision) without resolving citation constraints, the system trips a `SEMANTIC_LOOP_DETECTED` state, bypasses automated routing, and safely checkpoints for human review.
 - **Synchronous & Asynchronous Checkpointing:** Utilizing the `HumanInterruptAgent`, the LangGraph topology supports pausing execution at exact state milestones. In a production environment, this integrates with Postgres `checkpointer` to persist state across distributed clusters while waiting for asynchronous human inputs (e.g., Slack interactions).
